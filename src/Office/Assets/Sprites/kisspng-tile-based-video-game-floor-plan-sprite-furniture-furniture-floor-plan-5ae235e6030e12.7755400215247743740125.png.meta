@@ -1,0 +1,4973 @@
+fileFormatVersion: 2
+guid: 7845391cca8ec4442a2093d318d705e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7287459884752308836
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_0
+  - first:
+      213: -3275760650414561994
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_1
+  - first:
+      213: 6688334939669015035
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_2
+  - first:
+      213: -5824246569751132592
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_3
+  - first:
+      213: 606467225616848425
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_4
+  - first:
+      213: 3087771972952199761
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_5
+  - first:
+      213: 8627193427888104768
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_6
+  - first:
+      213: -5675250418761356754
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_7
+  - first:
+      213: 7349209474774327078
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_8
+  - first:
+      213: -8683154674644436050
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_9
+  - first:
+      213: -4953907134263255741
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_10
+  - first:
+      213: -6916488816595726549
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_11
+  - first:
+      213: 2495469388562207386
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_12
+  - first:
+      213: 5180071442272975594
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_13
+  - first:
+      213: -9159354885786640250
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_14
+  - first:
+      213: 1735528083924608955
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_15
+  - first:
+      213: -3839442594420962889
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_16
+  - first:
+      213: -5504793424795001743
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_17
+  - first:
+      213: -8523516515858972574
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_18
+  - first:
+      213: -998251739579085992
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_19
+  - first:
+      213: -982257049028066285
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_20
+  - first:
+      213: -7865231512991393404
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_21
+  - first:
+      213: -3447597527789760031
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_22
+  - first:
+      213: -1274722764575371679
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_23
+  - first:
+      213: -148754072848556298
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_24
+  - first:
+      213: -4481785756368567506
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_25
+  - first:
+      213: -2028440945283685455
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_26
+  - first:
+      213: 4873860252999997859
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_27
+  - first:
+      213: 5807638798319934063
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_28
+  - first:
+      213: -5537085585408402860
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_29
+  - first:
+      213: 7237461809146862899
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_30
+  - first:
+      213: 4134394252363064355
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_31
+  - first:
+      213: -4379304133062556532
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_32
+  - first:
+      213: 7982373025948822719
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_33
+  - first:
+      213: -3485633066599750248
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_34
+  - first:
+      213: -4269399913448029264
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_35
+  - first:
+      213: -4309704309959046378
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_36
+  - first:
+      213: -2769784773547814668
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_37
+  - first:
+      213: -7321149602110201579
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_38
+  - first:
+      213: -5055260076299509028
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_39
+  - first:
+      213: -3921610962152338528
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_40
+  - first:
+      213: 5775211488082402331
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_41
+  - first:
+      213: -4101912143534571249
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_42
+  - first:
+      213: 1657395075225746223
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_43
+  - first:
+      213: 3264763481087502867
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_44
+  - first:
+      213: -2238042039132999548
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_45
+  - first:
+      213: 324848099951472153
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_46
+  - first:
+      213: 52602621480276229
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_47
+  - first:
+      213: 3993242739476163785
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_48
+  - first:
+      213: 3498989929756993252
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_49
+  - first:
+      213: 8913674083855365296
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_50
+  - first:
+      213: -4636916593750700682
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_51
+  - first:
+      213: 6462325194680681588
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_52
+  - first:
+      213: -804471755549857806
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_53
+  - first:
+      213: -8616818789595951853
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_54
+  - first:
+      213: 6581720271635755947
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_55
+  - first:
+      213: 4250954768786161098
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_56
+  - first:
+      213: 3973545615066275692
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_57
+  - first:
+      213: 7610812346732291251
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_58
+  - first:
+      213: -8434825184800592686
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_59
+  - first:
+      213: 181230253854322937
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_60
+  - first:
+      213: 7451147234725791997
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_61
+  - first:
+      213: 2132558828480074927
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_62
+  - first:
+      213: 8868858260840114264
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_63
+  - first:
+      213: 7965767462016868925
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_64
+  - first:
+      213: 8571114482304029572
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_65
+  - first:
+      213: -7538217828667094177
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_66
+  - first:
+      213: 6273537452081692680
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_67
+  - first:
+      213: -323102081481086943
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_68
+  - first:
+      213: -5258017200444307312
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_69
+  - first:
+      213: 1507584133437497798
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_70
+  - first:
+      213: -7122099389068016717
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_71
+  - first:
+      213: -6631536884713564463
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_72
+  - first:
+      213: 6737887320477434869
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_73
+  - first:
+      213: -4484118126566899445
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_74
+  - first:
+      213: 70593898847934174
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_75
+  - first:
+      213: -5276287185367057091
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_76
+  - first:
+      213: 8189153296776203906
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_77
+  - first:
+      213: -8474963567181729837
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_78
+  - first:
+      213: -1309146135473601083
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_79
+  - first:
+      213: 5880091718208456238
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_80
+  - first:
+      213: -5462876303145521108
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_81
+  - first:
+      213: -4791613330227582084
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_82
+  - first:
+      213: 4048279706814298724
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_83
+  - first:
+      213: -4456570768379454340
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_84
+  - first:
+      213: -3517438647655230384
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_85
+  - first:
+      213: 4364288286768618090
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_86
+  - first:
+      213: -7058343709497622862
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_87
+  - first:
+      213: -2070436284316060794
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_88
+  - first:
+      213: -4294010260104933009
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_89
+  - first:
+      213: 6138568352494830065
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_90
+  - first:
+      213: -7367226368358601827
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_91
+  - first:
+      213: 7454799345157493979
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_92
+  - first:
+      213: -1433940555079035428
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_93
+  - first:
+      213: -3880687712299518811
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_94
+  - first:
+      213: 1201551038006660722
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_95
+  - first:
+      213: 4288504331593774339
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_96
+  - first:
+      213: -5964973673516350951
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_97
+  - first:
+      213: -2849103993570510606
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_98
+  - first:
+      213: 6218838259647130772
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_99
+  - first:
+      213: -3386723688875946324
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_100
+  - first:
+      213: -2313940766409686050
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_101
+  - first:
+      213: 4051733347558995757
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_102
+  - first:
+      213: 3822086639181697961
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_103
+  - first:
+      213: -6638222281743040467
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_104
+  - first:
+      213: -468162245560435867
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_105
+  - first:
+      213: -6422475639241368259
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_106
+  - first:
+      213: -5566802382760849208
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_107
+  - first:
+      213: -8505372396994489910
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_108
+  - first:
+      213: -1132411085250233019
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_109
+  - first:
+      213: -25125374454098902
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_110
+  - first:
+      213: 7313833239736994997
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_111
+  - first:
+      213: 3202952211473101072
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_112
+  - first:
+      213: 1105809094324352618
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_113
+  - first:
+      213: 4822637279788259127
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_114
+  - first:
+      213: 7275975217114229266
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_115
+  - first:
+      213: 2729709122929564420
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_116
+  - first:
+      213: -6667491852521593300
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_117
+  - first:
+      213: -2428953996459835187
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_118
+  - first:
+      213: 6167780617081784838
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_119
+  - first:
+      213: -7272377211587359057
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_120
+  - first:
+      213: 7740794482821635048
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_121
+  - first:
+      213: -412802182958858403
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_122
+  - first:
+      213: -903641586472421479
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_123
+  - first:
+      213: 179992559211860075
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_124
+  - first:
+      213: -3098038904701874705
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_125
+  - first:
+      213: -3047190156966289655
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_126
+  - first:
+      213: 7158348275957667841
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_127
+  - first:
+      213: -8858842715455829881
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_128
+  - first:
+      213: 7203369953353811095
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_129
+  - first:
+      213: 7016872175139734527
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_130
+  - first:
+      213: 5467433705915283551
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_131
+  - first:
+      213: 1177387550140420803
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_132
+  - first:
+      213: 2633933046939150169
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_133
+  - first:
+      213: 2070088597812536339
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_134
+  - first:
+      213: 863546589928339237
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_135
+  - first:
+      213: 6867654992144517981
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_136
+  - first:
+      213: 864319471548701572
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_137
+  - first:
+      213: 2134729003280449101
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_138
+  - first:
+      213: 1610890306453412914
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_139
+  - first:
+      213: 7519275929831317498
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_140
+  - first:
+      213: 5134815256598480259
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_141
+  - first:
+      213: -7928878207382326344
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_142
+  - first:
+      213: -2533799320554499298
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_143
+  - first:
+      213: 5227060892494151603
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_144
+  - first:
+      213: 120438699287570964
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_145
+  - first:
+      213: -7805849369430344947
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_146
+  - first:
+      213: -8314473832107480309
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_147
+  - first:
+      213: 1157716612737791102
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_148
+  - first:
+      213: -4705555884029150205
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_149
+  - first:
+      213: -6046728687705050762
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_150
+  - first:
+      213: -418198531733970314
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_151
+  - first:
+      213: 7312479105410363474
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_152
+  - first:
+      213: 506101958790894692
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_153
+  - first:
+      213: 3262240104916701653
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_154
+  - first:
+      213: 7976942796886192858
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_155
+  - first:
+      213: -2671469918535712184
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_156
+  - first:
+      213: 8406488497508509141
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_157
+  - first:
+      213: -3118179403763591166
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_158
+  - first:
+      213: 1304399720959051929
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_159
+  - first:
+      213: 6550940940281110764
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_160
+  - first:
+      213: 2339020065911925984
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_161
+  - first:
+      213: -6586780343818521310
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_162
+  - first:
+      213: 7228420212885669416
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_163
+  - first:
+      213: 3389402531301286872
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_164
+  - first:
+      213: -4200672705831799846
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_165
+  - first:
+      213: -1070810735045530460
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_166
+  - first:
+      213: 5920279677629797426
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_167
+  - first:
+      213: 8535965696587906218
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_168
+  - first:
+      213: -5554839858321490575
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_169
+  - first:
+      213: -1997131205232164883
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_170
+  - first:
+      213: 3422672329430508022
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_171
+  - first:
+      213: -7258466450323405407
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_172
+  - first:
+      213: -3962229888995359053
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_173
+  - first:
+      213: -4413254763594701132
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_174
+  - first:
+      213: -3378494137439910450
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_175
+  - first:
+      213: 1363965423876547178
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_176
+  - first:
+      213: -8753311523173035819
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_177
+  - first:
+      213: -3805553953942149428
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_178
+  - first:
+      213: 4328414570187487924
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_179
+  - first:
+      213: -1189500617843994590
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_180
+  - first:
+      213: 1427853545312870583
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_181
+  - first:
+      213: -6332621080380773694
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_182
+  - first:
+      213: 599253100148114731
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_183
+  - first:
+      213: -8753103020635134504
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_184
+  - first:
+      213: 8526886574552200531
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_185
+  - first:
+      213: -120586215488510197
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_186
+  - first:
+      213: 6649877004823749938
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_187
+  - first:
+      213: -5565826964737279462
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_188
+  - first:
+      213: -6456485295505222319
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_189
+  - first:
+      213: -8425870896283291723
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_190
+  - first:
+      213: 516584315751287454
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_191
+  - first:
+      213: -7670691752915859579
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_192
+  - first:
+      213: -1181961355126178494
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_193
+  - first:
+      213: 2204955427887287060
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_194
+  - first:
+      213: 5184616848045395691
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_195
+  - first:
+      213: 3417504850345000285
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_196
+  - first:
+      213: 2878155281662538736
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_197
+  - first:
+      213: -7919220713530883866
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_198
+  - first:
+      213: -8890103796490312773
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_199
+  - first:
+      213: -1832452490220335848
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_200
+  - first:
+      213: 7623509708270864924
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_201
+  - first:
+      213: 6749141703344471582
+    second: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_202
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1096
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe559cf716dd51a4fa6b78c1f015260f
+      internalID: 7287459884752308836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1093
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c301f4a8cca8e4db1f1b4d2ae44595
+      internalID: -3275760650414561994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1107
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46dea04170c33448a38275a74f1c3b3
+      internalID: 6688334939669015035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1103
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9ce985602b92d499f717cfd09e42d6
+      internalID: -5824246569751132592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_4
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1083
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa692898ffc29834eaf8351da8258fa2
+      internalID: 606467225616848425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1108
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5405b21eb00ddae4eb50db2d0f4da63d
+      internalID: 3087771972952199761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_6
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1081
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cf1adf590bbe041a327a8b8e8db464
+      internalID: 8627193427888104768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1081
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd4d65ba03e04e4a8e6908f006fca0e
+      internalID: -5675250418761356754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1086
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9fc6ea104eccd4f94f71c1e4038ee6
+      internalID: 7349209474774327078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_9
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1067
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb995e2c83fbc0408c2eddd3662f0ae
+      internalID: -8683154674644436050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1079
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03e4e0834e60a245a5daf3b8ac9ed3a
+      internalID: -4953907134263255741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_11
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1062
+        width: 128
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84990f5d98eb2d948af927e35a304870
+      internalID: -6916488816595726549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1052
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a433b59e2992af84db601706b0274d3c
+      internalID: 2495469388562207386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1040
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf46eca34802f14ca878f6779e8ee03
+      internalID: 5180071442272975594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1037
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be6c74fdfe5f9947a908e8a8bbd0921
+      internalID: -9159354885786640250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_15
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1076
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959db509c2768ea49a58a7a23e7ddf09
+      internalID: 1735528083924608955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1043
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c4faa70a6d5314fab06b0c26386b13
+      internalID: -3839442594420962889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1043
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00503b20648164a449b70156fdd2a7a6
+      internalID: -5504793424795001743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_18
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1028
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6c32df56bf1b14dba3b276c5d2098e
+      internalID: -8523516515858972574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_19
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1033
+        width: 208
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8a2d8dcf650e348891783142a90cf3
+      internalID: -998251739579085992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 977
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f46c9c7a24b8f4f887e3a6c1c2732f
+      internalID: -982257049028066285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_21
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1027
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd452962c3854ef49bd8b6061e83c99b
+      internalID: -7865231512991393404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_22
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 965
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bde0fda37066c040be387e5cb5235e8
+      internalID: -3447597527789760031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_23
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 968
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12485151d9ee08f4988021e3ebc706f8
+      internalID: -1274722764575371679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_24
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 942
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795445a5746a0b5428dd788535dd2a18
+      internalID: -148754072848556298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_25
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 959
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e922892035c3fd478c3e1292d9905ba
+      internalID: -4481785756368567506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_26
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 939
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012ad916dc984d94c911c65e340f725b
+      internalID: -2028440945283685455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_27
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 921
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44cf2a8bfbffe74caab8feed231d566
+      internalID: 4873860252999997859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_28
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 906
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d553d70c9210c4b83f3283262ffdf9
+      internalID: 5807638798319934063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_29
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 922
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d531660b7ca36d14bb6d0d1e19860ad4
+      internalID: -5537085585408402860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_30
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 909
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d05077f3eb45ca488dcc92f9fae0d0e
+      internalID: 7237461809146862899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_31
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 917
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe417606f33f29841beeb086b6a9671f
+      internalID: 4134394252363064355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_32
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 955
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448fc2a6115569f4db80eee2a012c785
+      internalID: -4379304133062556532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_33
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 954
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81febb8581d2ab54a929320dc0b1e0e9
+      internalID: 7982373025948822719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_34
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 955
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31f0048de20424419c04060e53448ea
+      internalID: -3485633066599750248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_35
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 953
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2984cd3b0f84144abef553c2e97670
+      internalID: -4269399913448029264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 956
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecde3be0a5c1cfb41ae8ae271902e683
+      internalID: -4309704309959046378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_37
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 889
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3d2bb175dcd84479d1927b3d3abecd
+      internalID: -2769784773547814668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 931
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a827b1f73d9be014bbd8b5ba6b47450c
+      internalID: -7321149602110201579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_39
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 947
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c4886fda4f08c4294a89c2a52f506a
+      internalID: -5055260076299509028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_40
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 944
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc09feeac4bb49b4383856991d824e7c
+      internalID: -3921610962152338528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_41
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 944
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e508b6602c2ad6498bd67c94a5c8832
+      internalID: 5775211488082402331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_42
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 945
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c66ea7f7cd52547aebc252fabffd93
+      internalID: -4101912143534571249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 879
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4308b4ef13ff824409fa576df0918799
+      internalID: 1657395075225746223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_44
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 912
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f640736535092d469a1778fca5b8dbd
+      internalID: 3264763481087502867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_45
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 883
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d1c61e3d49fac47ad8255991a5e48d
+      internalID: -2238042039132999548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_46
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 917
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a2156fa544ff04f821662637631149
+      internalID: 324848099951472153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_47
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 895
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984e76c0d85f46e4a8c6206fc8c06f19
+      internalID: 52602621480276229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_48
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 869
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c9215a127b37d4985e35a2be47be53
+      internalID: 3993242739476163785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_49
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 868
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9030eadb0f6498c40a3d55c0ab6ac8e5
+      internalID: 3498989929756993252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 823
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1023041268d45c64085b47dcce420870
+      internalID: 8913674083855365296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_51
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 821
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78be75c609441154d81be7291ea887b8
+      internalID: -4636916593750700682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_52
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 815
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eedf11416c51e148a1d0509276d6684
+      internalID: 6462325194680681588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 819
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006fc5847d5197d4bb0358d67f689dd8
+      internalID: -804471755549857806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_54
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 800
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb37b0fdc2be344ebb957f3b62900df
+      internalID: -8616818789595951853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_55
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 823
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462976f5ca2916d47ad4eee27561fe07
+      internalID: 6581720271635755947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_56
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 821
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede834fb226b58342be806b7773571f6
+      internalID: 4250954768786161098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_57
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 830
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaae2c3330c894947852eef676a85dc5
+      internalID: 3973545615066275692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_58
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 822
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173bc5e07c43f8a4d8b93b18da38f42e
+      internalID: 7610812346732291251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_59
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 789
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abab9cfb0bad974e90b473cd53a134e
+      internalID: -8434825184800592686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_60
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 791
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab672a4ceed1a8042a230d6c134cf00f
+      internalID: 181230253854322937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_61
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 750
+        width: 104
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15844a99bc2602e48b791e2998600368
+      internalID: 7451147234725791997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_62
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 804
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a84f6c57223ae949b76526a84a36995
+      internalID: 2132558828480074927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_63
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 804
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fabceea34a5d84fa6c273c9c39f409
+      internalID: 8868858260840114264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_64
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 807
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcd04cb4c91d724ebbd59a94eb04904
+      internalID: 7965767462016868925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_65
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 806
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255d92c1a8ee9ee42a1f49f812a070e7
+      internalID: 8571114482304029572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_66
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 780
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e330b1c182820534fa1aa80fab43b726
+      internalID: -7538217828667094177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_67
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 789
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572f5566b6df47b45b7eb6964156832c
+      internalID: 6273537452081692680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_68
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 782
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64098f27fdae4c64f8b8c2360e63e970
+      internalID: -323102081481086943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_69
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 762
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecd06b1a27ad864fad557e9b1e06e0e
+      internalID: -5258017200444307312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_70
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 770
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73271e3ce0b46c8468411048281b6fef
+      internalID: 1507584133437497798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_71
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 759
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a8e178f306ec64a8d0d15fcfb05a91
+      internalID: -7122099389068016717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_72
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 784
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a239c7cdb2127034c944a9bb69967fd3
+      internalID: -6631536884713564463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_73
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 703
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8d434b29c16e64cab1cc4edfd58123
+      internalID: 6737887320477434869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_74
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 705
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa6f644044502b47bb0fc397f8eee24
+      internalID: -4484118126566899445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_75
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 727
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54694292ac3036641a1909bd3ad35e81
+      internalID: 70593898847934174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_76
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 755
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d35befa0ddff7488802cf65e21d597
+      internalID: -5276287185367057091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_77
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 729
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f772348febaacd4fb9abb04040d2a65
+      internalID: 8189153296776203906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_78
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 751
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16332cc76209b843a6923cab7e6d306
+      internalID: -8474963567181729837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_79
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 737
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b50d464330ef349bd5e748a4a1e84a
+      internalID: -1309146135473601083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_80
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 716
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1983d1cd54e924fa05f6a46dffd394
+      internalID: 5880091718208456238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_81
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 725
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261ea6a85dfedd746bc1b450f11e522f
+      internalID: -5462876303145521108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_82
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 731
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a755d45f01f62444e963b37d0aaca1e4
+      internalID: -4791613330227582084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_83
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 714
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ef60584748c114f8e8a0cb331ed14c
+      internalID: 4048279706814298724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_84
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 716
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2296fa478e1d5b84b9f27a5abcd19b2d
+      internalID: -4456570768379454340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 723
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d768cd5bf61d63d479c0e1951b8e70eb
+      internalID: -3517438647655230384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_86
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 666
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0739bc8e996583d40a291992c58cdff6
+      internalID: 4364288286768618090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_87
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 666
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb24762f1ba9a68428d25b85d0e87140
+      internalID: -7058343709497622862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_88
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 666
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad3e5fda8b98444681a578161f46d63
+      internalID: -2070436284316060794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_89
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 665
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a18bfd72c20e854fa07b84bdf07ce21
+      internalID: -4294010260104933009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_90
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 634
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce52e197ec62244697e4cca5407a438
+      internalID: 6138568352494830065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_91
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 635
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e224ac5f097669440817d44656c27ab0
+      internalID: -7367226368358601827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_92
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 631
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f886bbe9cc70080458e46355e5ce0da6
+      internalID: 7454799345157493979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_93
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 645
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a7d637d2de10346a3e53b1ab5e54f0
+      internalID: -1433940555079035428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_94
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 645
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af0e58a5d48fae41be66a69630ffb9e
+      internalID: -3880687712299518811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_95
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 645
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a287cbb2c05009a418185424137c0a03
+      internalID: 1201551038006660722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_96
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 645
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad826ef42901614dae6b670b704ffc3
+      internalID: 4288504331593774339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_97
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 650
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad112251adf44c4480bdb4aa9306238
+      internalID: -5964973673516350951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_98
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 650
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3039849f7178df4c8f5301f9c694b49
+      internalID: -2849103993570510606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_99
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 629
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f18acc3634e87f4ab77227e0ef949ee
+      internalID: 6218838259647130772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_100
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 613
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f803d5c1f8606934eb0914030b3288b3
+      internalID: -3386723688875946324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_101
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 631
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ecc4e3117178d4fb5e33ca50285b79
+      internalID: -2313940766409686050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_102
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 589
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8842f234df4824eb3a94d25e453174
+      internalID: 4051733347558995757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_103
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 603
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1463e1659eb484dba2f46b46031ad1
+      internalID: 3822086639181697961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_104
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 603
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a15532a64936543996c0d37eeb850d
+      internalID: -6638222281743040467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_105
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 602
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fea1d5079ebd8e42b47b2642a4d6d69
+      internalID: -468162245560435867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_106
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 602
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7befc7f17375de48b251e59034ff35b
+      internalID: -6422475639241368259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_107
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 616
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14fb3e38df2506408f40f33d29ef41e
+      internalID: -5566802382760849208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_108
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 592
+        width: 9
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f789522cf7b616e41bd71424b7d5b3c3
+      internalID: -8505372396994489910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_109
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 592
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24539846dbdcebe4087176d0711a0be3
+      internalID: -1132411085250233019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_110
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 549
+        width: 104
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb7477d5d9936849a6917ba3a2288ba
+      internalID: -25125374454098902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_111
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 543
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c192512a2dca13f439d7aea370378833
+      internalID: 7313833239736994997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_112
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 567
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ba9b5c7097d684cbe4ea6a506b2e77
+      internalID: 3202952211473101072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_113
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 573
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d02175e38ea2794e97818f4335a560e
+      internalID: 1105809094324352618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_114
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 563
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d561fdf9be7707f4286cfc44e54fec45
+      internalID: 4822637279788259127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_115
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 561
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5844f1dabce17e41944ccc62c5d2fb4
+      internalID: 7275975217114229266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_116
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 572
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0916e62775c534f488d7f5c1f40811dd
+      internalID: 2729709122929564420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_117
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 577
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081512da0cf028c4fab2e8ec450f40f6
+      internalID: -6667491852521593300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_118
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 564
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf2422177442ae4d83422a7e278f950
+      internalID: -2428953996459835187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_119
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 565
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289ada69b8dd1dd428bc007c36224f33
+      internalID: 6167780617081784838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_120
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 563
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89815460dfb45e34eb2ea0b70f56aa76
+      internalID: -7272377211587359057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_121
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 562
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7406fd7edea4345a8c3eaec20614f1
+      internalID: 7740794482821635048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_122
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 573
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd6faadc6fb73347a28d8e12a24a692
+      internalID: -412802182958858403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_123
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 565
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b9834294d026b4eb8aa2896de0dfdd
+      internalID: -903641586472421479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_124
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 510
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37010faa7a78a8949aa9d3539c7cb344
+      internalID: 179992559211860075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_125
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 510
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b67377157deed43a0d315c36ec1341
+      internalID: -3098038904701874705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_126
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 519
+        width: 120
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc83a046b28d164ab36420bfc444c8a
+      internalID: -3047190156966289655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_127
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 524
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1132449416c094a9c50fc73231150f
+      internalID: 7158348275957667841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_128
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 492
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50cf98fe6e17ff408665843548548de
+      internalID: -8858842715455829881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_129
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 486
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a245effc19064489248ae6f0a55733
+      internalID: 7203369953353811095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_130
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 429
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee1c00f6d8884e41889a4b940f8cffe
+      internalID: 7016872175139734527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_131
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 392
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caa9c41c695f4348be85613c4c91fc1
+      internalID: 5467433705915283551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_132
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 430
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01b2f17c7d3b904b84863693464c55c
+      internalID: 1177387550140420803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_133
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 405
+        width: 86
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c350280b86dcebf45a5a7b3e14dfa959
+      internalID: 2633933046939150169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_134
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 406
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd481388117b9b942b2e0653ec7beaca
+      internalID: 2070088597812536339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_135
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 449
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6808a04cd144b434a9ad90137d806b25
+      internalID: 863546589928339237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_136
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 437
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9891ad22ffa928b45aac5fe7555831f0
+      internalID: 6867654992144517981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_137
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 436
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb6c0fa9ff826f4f9f3625cb32552fb
+      internalID: 864319471548701572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_138
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 415
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02689eb357ba961428968d44c3e7d95f
+      internalID: 2134729003280449101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_139
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 449
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24752e8d86b17e40af0494873311fd6
+      internalID: 1610890306453412914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_140
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 429
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16884bcc5c811c940bc1e5b4eaba8603
+      internalID: 7519275929831317498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_141
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 430
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8e543cb8b37754993ba04830dc58b4
+      internalID: 5134815256598480259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_142
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 411
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9cd035bbb64914cbca27784f5bfe88
+      internalID: -7928878207382326344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_143
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 408
+        width: 16
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69df7d03fe05b824989fc7957dd76b6f
+      internalID: -2533799320554499298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_144
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 433
+        width: 76
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1620604cb2f88784e83b981fa4647424
+      internalID: 5227060892494151603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_145
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 390
+        width: 13
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a16895c7b8b234081855b1f9fd2db0
+      internalID: 120438699287570964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_146
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 399
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d3af24d12138b43a3125ec4afaa438
+      internalID: -7805849369430344947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_147
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 407
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8003e6b49cf22b0449ce58e0cf0d5c0f
+      internalID: -8314473832107480309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_148
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 388
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fc3dba87f89ec4aaaee043d2510cc8
+      internalID: 1157716612737791102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_149
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 419
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f805899ddcba76c42958c36c95f3cc1a
+      internalID: -4705555884029150205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_150
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 375
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd77413ad21b5b45b74229522f42297
+      internalID: -6046728687705050762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_151
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 344
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beddecf4921749f4eb2604c2e7874a2a
+      internalID: -418198531733970314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_152
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 346
+        width: 112
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90a1b53246cf1a4fb1a4e624eea4fa4
+      internalID: 7312479105410363474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_153
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 341
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45444656480b2ab44b49a2a5151ddf01
+      internalID: 506101958790894692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_154
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 380
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2012eb30a7afe1f4aa14195e94097a46
+      internalID: 3262240104916701653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_155
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 353
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5851513ff3f1ed14f915e368d0fbc7bf
+      internalID: 7976942796886192858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_156
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 312
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4409ee346793ca4a85da1f13b3d38c4
+      internalID: -2671469918535712184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_157
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 316
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b439a91ff3fd414e9990871c9cec462
+      internalID: 8406488497508509141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_158
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 310
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c15097d81760f41ae95896747856a5
+      internalID: -3118179403763591166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_159
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 306
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3104ceef9896cea468cbdc89e42aa7f6
+      internalID: 1304399720959051929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_160
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 312
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24223614852ec24cab83d69c64cfbe1
+      internalID: 6550940940281110764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_161
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 344
+        width: 76
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dec65b6a288464ba3bb8831372cf81
+      internalID: 2339020065911925984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_162
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 341
+        width: 72
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdea5a9ce76e3a48a1cb65e456349fd
+      internalID: -6586780343818521310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_163
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 267
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8687c26df56192c4ca0a54c5ce04c9c4
+      internalID: 7228420212885669416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_164
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 266
+        width: 112
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66687a0672e44344a7d654e1aae10b6
+      internalID: 3389402531301286872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_165
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 274
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13858e1e5ae0f554e88bdb7a303ef8f6
+      internalID: -4200672705831799846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_166
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 284
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e00489223c8ea49a5e9b414999ea5e
+      internalID: -1070810735045530460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_167
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 244
+        width: 20
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a566e577c28651748bc76c324a3d4da4
+      internalID: 5920279677629797426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_168
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 284
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50257b825f60c584caf0639e6fbb2fdb
+      internalID: 8535965696587906218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_169
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 315
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea4469d59be65c488bc240841213461
+      internalID: -5554839858321490575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_170
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 309
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5456ab084e4c6c74d8d62b3583fb8125
+      internalID: -1997131205232164883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_171
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 239
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fe7d19840060c47b45c6327b88b7cf
+      internalID: 3422672329430508022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_172
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 263
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefdab3e7b390cd449b3168142e2620e
+      internalID: -7258466450323405407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_173
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 264
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df57f1c80dff18149a5e123a992fcf9a
+      internalID: -3962229888995359053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_174
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 293
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0de1e0cb8c6cbc4d99a78a79b68b088
+      internalID: -4413254763594701132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_175
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 305
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471b228e1203be640bde47a57881f90c
+      internalID: -3378494137439910450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_176
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 263
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abf65ff860ba014ba661bda3d3061df
+      internalID: 1363965423876547178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_177
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 258
+        width: 93
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cd23d898ad7be47b29b424acf63d99
+      internalID: -8753311523173035819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_178
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 250
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce5909672fe8b24ca28ff127e6277f0
+      internalID: -3805553953942149428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_179
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 286
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fc37b622f3e0b4d918428df0c1aaaa
+      internalID: 4328414570187487924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_180
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 293
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f658f82501db81840b70bcc493570292
+      internalID: -1189500617843994590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_181
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 291
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef974358c8aa2ad44a3c221b1824c0cd
+      internalID: 1427853545312870583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_182
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 293
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073908ba119764243b5567be4e5992ab
+      internalID: -6332621080380773694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_183
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 253
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29bfd85e3acfa447bbef79ad75c0be5
+      internalID: 599253100148114731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_184
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 277
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197202b1fed7c4442bfd595653f7dfe5
+      internalID: -8753103020635134504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_185
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 281
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f32221073d17aa408b13aa61b8eed5a
+      internalID: 8526886574552200531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_186
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 210
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8f11c10ef2e934f97535f9383708b2
+      internalID: -120586215488510197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_187
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 220
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2501efee7cd84a0439a825621bcab53a
+      internalID: 6649877004823749938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_188
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 210
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5474e8c4d9bc54f4dab09277905c7cd8
+      internalID: -5565826964737279462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_189
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 224
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abd9aa4d42f03d4c8b456c12019abbb
+      internalID: -6456485295505222319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_190
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 242
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20d387a12c9bfe4abd43d7e0f61153f
+      internalID: -8425870896283291723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_191
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 255
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da1cd868c0e26f47a20cf5888ab99a0
+      internalID: 516584315751287454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_192
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 190
+        width: 89
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50518a1d03f1ca4a97e41e9aa2f6224
+      internalID: -7670691752915859579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_193
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 77
+        width: 126
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b6cd82d7cf05b479cc8b57a9182d94
+      internalID: -1181961355126178494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_194
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 77
+        width: 73
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ac1cfac964e374db3f275ade2dd34b
+      internalID: 2204955427887287060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_195
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 77
+        width: 115
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9f1da283e5b66448866c86594c5dfa
+      internalID: 5184616848045395691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_196
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 77
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460ce17da52dcda4aa5c99fec3ee1c50
+      internalID: 3417504850345000285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_197
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 77
+        width: 115
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e9281db9fb9b540aea3947e6926c1e
+      internalID: 2878155281662538736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_198
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 77
+        width: 74
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d027f7f342de6e34d9ca5d917cf6ce0c
+      internalID: -7919220713530883866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_199
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 77
+        width: 80
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc7b2535fe5d5648a570be4d282f1ea
+      internalID: -8890103796490312773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_200
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 77
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c123d528f039314984537ad68f757d2
+      internalID: -1832452490220335848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_201
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 26
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4e8651febdc1644a4b927aee1150f8
+      internalID: 7623509708270864924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-tile-based-video-game-floor-plan-sprite-furniture-furniture-floor-plan-5ae235e6030e12.7755400215247743740125_202
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 26
+        width: 198
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2f6b74a01759744a5ddfed475284ec
+      internalID: 6749141703344471582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7915f1c67130d99488e2efe70b704f11
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

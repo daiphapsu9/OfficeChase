@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: c0f93968069debe45a315e278ad35e10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: NPC1 (2)_0
+  - first:
+      213: 21300002
+    second: NPC1 (2)_1
+  - first:
+      213: 21300004
+    second: NPC1 (2)_2
+  - first:
+      213: 21300006
+    second: NPC1 (2)_3
+  - first:
+      213: 21300008
+    second: NPC1 (2)_4
+  - first:
+      213: 21300010
+    second: NPC1 (2)_5
+  - first:
+      213: 21300012
+    second: NPC1 (2)_6
+  - first:
+      213: 21300014
+    second: NPC1 (2)_7
+  - first:
+      213: 21300016
+    second: NPC1 (2)_8
+  - first:
+      213: 21300018
+    second: NPC1 (2)_9
+  - first:
+      213: 21300020
+    second: NPC1 (2)_10
+  - first:
+      213: 21300022
+    second: NPC1 (2)_11
+  - first:
+      213: 21300024
+    second: NPC1 (2)_12
+  - first:
+      213: 21300026
+    second: NPC1 (2)_13
+  - first:
+      213: -6884585620009703217
+    second: DOWN-1
+  - first:
+      213: 895932155533104823
+    second: DOWN-2
+  - first:
+      213: -8132160589800567931
+    second: DOWN-3
+  - first:
+      213: -918914517762069143
+    second: DOWN-4
+  - first:
+      213: -6499493950926101931
+    second: UP-1
+  - first:
+      213: 2282772134945173692
+    second: UP-2
+  - first:
+      213: -8793379922635812778
+    second: UP-3
+  - first:
+      213: 1372766260054364317
+    second: UP-4
+  - first:
+      213: 5857226075872355958
+    second: LEFT-1
+  - first:
+      213: -2709812556226268266
+    second: LEFT-2
+  - first:
+      213: 4983181753877753169
+    second: LEFT-3
+  - first:
+      213: 1020512681222389323
+    second: RIGHT-1
+  - first:
+      213: -3180111845330811952
+    second: RIGHT-2
+  - first:
+      213: 5974770449181700076
+    second: RIGHT-3
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DOWN-1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 798
+        width: 92
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd017fc0855e084d8d8bc65375823d5
+      internalID: -6884585620009703217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOWN-2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 802
+        width: 92
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35b72e33e3452b44a2c4b2618160dd0
+      internalID: 895932155533104823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOWN-3
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 798
+        width: 92
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6990472c5dfc3404481427f5a15257c9
+      internalID: -8132160589800567931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DOWN-4
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 802
+        width: 92
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1da5b9ab4d5474a8db4e7e1fdf564e
+      internalID: -918914517762069143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UP-1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 542
+        width: 92
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecb8f1a99443eb49ba5353d4cef69cc
+      internalID: -6499493950926101931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UP-2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 546
+        width: 92
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654ae8fa91b57434f9044b83ec7e4fc5
+      internalID: 2282772134945173692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UP-3
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 542
+        width: 92
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cb8d7b09c90c84d80c69657dad6743
+      internalID: -8793379922635812778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UP-4
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 546
+        width: 92
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f433ec5dca0a43147a750090d54d7e15
+      internalID: 1372766260054364317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEFT-1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 294
+        width: 104
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d17e016cbf35d14586836fd141a0923
+      internalID: 5857226075872355958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEFT-2
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 298
+        width: 104
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b601456bb5a64d4cbecf415d87249ff
+      internalID: -2709812556226268266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEFT-3
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 294
+        width: 104
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57866cc6f384eda49ada3f7fe722963d
+      internalID: 4983181753877753169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIGHT-1
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 297
+        width: 104
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48d9bee1b036f749a863d02af5e867a
+      internalID: 1020512681222389323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIGHT-2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 42
+        width: 104
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab38c25db9e43b24bb73bdb102482f56
+      internalID: -3180111845330811952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIGHT-3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 38
+        width: 104
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e783e166f9351c47abd60bd605f7d76
+      internalID: 5974770449181700076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ec80797170f90d248af7684db0fba24f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

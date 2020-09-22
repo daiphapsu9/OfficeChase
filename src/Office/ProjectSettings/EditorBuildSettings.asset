@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/loseScene.unity
+    guid: 27b701c46af08cd4bbbd840dc4d5d0d4
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: d9ed54f128ed6a748b59b2ce9a1d1494
+  - enabled: 0
+    path: Assets/Scenes/winScene.unity
+    guid: 849437852486a614fb49c2dec360e80d
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 13693c57338001748a5e499d159b86f1
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: e9cbbd410190b4d459f97db9608bee9a
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: b5065575cf94481449fa8c2a9beae755
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: a25a0ab1e3b32784e853f7069d476e65
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 20a70276ab7e9e94b8a8605c03e4f600
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 54b656b96b80a4d5db317fb023fe2980
+  - enabled: 1
+    path: Assets/Scenes/GameWin.unity
+    guid: 91b1afcf7ab83d74fb8a58ead5755a2d
+  - enabled: 1
+    path: Assets/Scenes/GameLose.unity
+    guid: fc27def179d752148b182f8a5eccf9ea
+  m_configObjects: {}
